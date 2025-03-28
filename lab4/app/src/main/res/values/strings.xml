@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="user_name">Arseniy Ivanov</string>
+    <string name="occupation">Software Architect</string>
+    <string name="phone" >+79123456789</string>
+    <string name="monkey">@pixeldemon</string>
+    <string name="email">pxldem@gmail.com</string>
+</resources>

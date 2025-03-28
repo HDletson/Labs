@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+
+    <string name="van_gogh_title">Self-Portrait</string>
+    <string name="van_gogh_description">Self-portrait of famous author</string>
+
+    <string name="mona_lisa_title">Mona Lisa, La Gioconda</string>
+    <string name="mona_lisa_description">Famous masterpiece</string>
+
+    <string name="black_square_title">Black Square</string>
+    <string name="black_square_description">Well-known symbol of abstraction</string>
+</resources>
